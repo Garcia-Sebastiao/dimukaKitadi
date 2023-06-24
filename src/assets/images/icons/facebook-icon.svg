@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="27.039429px" height="27.03955px" viewBox="0 0 27.039429 27.03955" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L27.0394 0L27.0394 27.0394L0 27.0394L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Facebook-icon">
+    <path d="M0 0L27.0394 0L27.0394 27.0394L0 27.0394L0 0Z" id="Background" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M13.5197 0C6.05344 0 0 6.05344 0 13.5197C0 20.2975 4.99327 25.8947 11.4985 26.8726L11.4985 17.1024L8.1535 17.1024L8.1535 13.549L11.4985 13.549L11.4985 11.1842C11.4985 7.26908 13.4059 5.55096 16.6596 5.55096C18.2178 5.55096 19.0425 5.667 19.4323 5.71883L19.4323 8.82047L17.2128 8.82047C15.8316 8.82047 15.3493 10.1307 15.3493 11.6066L15.3493 13.549L19.3974 13.549L18.8487 17.1024L15.3493 17.1024L15.3493 26.9008C21.9481 26.0062 27.0394 20.364 27.0394 13.5197C27.0394 6.05344 20.9859 0 13.5197 0L13.5197 0Z" id="Shape" fill="#FF3D42" stroke="none" />
+    </g>
+  </g>
+</svg>
